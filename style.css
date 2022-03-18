@@ -1,0 +1,73 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.birbalo{
+    top:-75px    
+}
+.header
+{
+    height: 600px;
+    padding:100px 0;
+    background-image: url('./photo/rasm1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar
+{
+    color: #214E41;
+    
+}
+
+
+.birnmala
+{
+    height: 400px;
+    padding:100px 0;
+    background-image: url('./photo/rasm2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.taxtlar
+{
+    
+    color:  #214E41;
+}
+
+.malum p{
+    padding-top: 20px;
+    font-weight: 100;
+    color: 
+#43806C;
+}
+
+.give
+{
+    color:  #214E41;
+    
+}
+
+.col-7 img
+{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+
+
+
+
+   
+
+
+
+
